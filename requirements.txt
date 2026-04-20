@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+python-multipart
+bcrypt
+python-jose
+cryptography
+cffi
+pycparser
+ecdsa
+pyasn1
+rsa
+six
+typing_extensions
